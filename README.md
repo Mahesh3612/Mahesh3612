@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h4 align="center">A full stack developer is a versatile professional proficient in both front-end and back-end web development, capable of creating and maintaining entire web applications.</h4>
 
 <img align="center" margin-left="400px" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
